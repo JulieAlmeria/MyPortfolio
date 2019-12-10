@@ -1,0 +1,168 @@
+.page-header {
+        position:relative;
+        background-color:#EF7C17;
+        height: 10vh;
+        line-height: 10vh;
+        width:110%;
+
+}
+
+h1 {
+    color:#2B2626;
+    font-family: 'Pacifico', sans-serif;
+    font-size: 8vh;
+    text-align:left;
+    margin-left:10%;
+
+
+}
+
+.navbar {
+        font-family:'Kanit', sans-serif;
+        justify-content: space-between;
+        align-content: left;
+        width:110%;
+        text
+    }
+
+    .navbar-nav {
+        margin-left:10%;
+    }
+
+
+body {
+    min-height:80vh;
+    margin-bottom:20%;
+}
+.footer {
+        position:fixed;
+        margin-top:10%;
+        left:0;
+        bottom: 0; 
+        z-index:1;
+        line-height: 5vh;
+        text-align: left;
+        width:110%;
+        height:5vh;
+        background-color: #EF7C17;
+        vertical-align:bottom;
+        align-items:flex-end;
+    }
+
+    h3 {
+        font-family: 'Pacifico', sans-serif;
+        color: #2B2626;
+        line-height: 5vh;
+        font-size: 2vh;
+        margin-left:10%;
+    }
+
+
+#headshot {
+        width:20vw;
+        height:30vh;
+        max-width:100%;
+        height:auto;
+        margin-left:30%;
+        margin-top:15%;
+}
+
+#AboutMe {
+        margin-top:7%;
+        margin-right: 5%;
+        font-family: 'Muli', sans-serif;
+        padding:5%;
+        }
+
+        #port {
+            align-content:center;
+            margin-top:5%;
+            margin-left:10%;
+            margin-right:10%;
+         }
+a {
+        color: #2B2626;
+        font-family: 'Muli', sans-serif;}
+a:hover {
+        color:#Ef7C17;
+}
+
+.card-title {
+        color:#2B2626;
+        font-family: 'Pacifico', sans-serif;
+        
+}
+
+#contact {
+    margin-top:3%;
+    margin-left:10%;
+    margin-bottom:5%;
+}
+label {font-family: 'Pacifico', sans-serif;
+    color:#2B2626;
+    font-size:2vh;
+    margin-left: 2%;
+    
+}
+textarea {height:40vh;
+        width:40vw;
+        margin-left:2%;}
+
+input {width:40vw;
+    margin-left:2%;
+    height:5vh;
+    font-family: 'Muli', sans-serif;
+    color: #2B2626}
+
+#contactButton {background-color: #EF7C17;
+            color:#2B2626;
+            font-family:'Pacifico', sans-serif;
+            margin-left:2%;
+            height:30px;
+            width:80px;
+        }
+
+html{
+    overflow:scroll;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+    footer {
+        width:100%;
+        margin-top:10%;
+        padding-top:5%;
+
+} 
+}
+@media (max-width: 575.98px) {
+    .container {
+      min-width: 100%;
+    }
+  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
