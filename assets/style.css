@@ -125,44 +125,30 @@ input {width:40vw;
 html{
     overflow:scroll;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
-    footer {
-        width:100%;
-        margin-top:10%;
-        padding-top:5%;
+    body {margin-left: 10%;
+          margin-right: 10%;}
 
-} 
 }
-@media (max-width: 575.98px) {
-    .container {
-      min-width: 100%;
-    }
-  }
-
 // Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
+@media (min-width: 768px) {
+    body {margin-left: 10%;
+          margin-right: 10%}
+    
 
 // Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
+@media (min-width: 992px) {
+       body {margin-left: 10%;
+             margin-right: 10%;}
+ }
 
 // Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) {
+        body {margin-left: 10%;
+              margin-right: 10%;
+            }
+}
