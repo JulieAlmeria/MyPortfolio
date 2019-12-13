@@ -8,3 +8,4 @@ This project will act as my professional portfolio for prospective employers to 
 <h1>Change Log</h1>
 <h2>1.1.0 2019-12-09 Initial Launch<h2>
 <h2>1.2.0 2019-12-10 New & Improved Portfolio<h2>
+<h2>1.3.0 2019-12-12 Third Version (With Margins!)<h2>
