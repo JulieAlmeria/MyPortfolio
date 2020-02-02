@@ -9,3 +9,4 @@ This project will act as my professional portfolio for prospective employers to 
 <h2>1.1.0 2019-12-09 Initial Launch<h2>
 <h2>1.2.0 2019-12-10 New & Improved Portfolio<h2>
 <h2>1.3.0 2019-12-12 Third Version (With Margins!)<h2>
+<h2>1.4.0 2020-02-02 All New Portfolio With Latest Projects & New Graphics<h2>
